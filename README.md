@@ -5,7 +5,7 @@ This is a Performance test script written in Jmeter.
 Please download the .jmx and .csv files to your local environment. Drag and drop the .jmx file 
 to Jmeter GUI. And update .csv file path in the script. Then you can run the script.
 
-# Test steps
+# Test Steps
 
 Only once with a single user on Jmeter;
 1. 15 product information is added to the CSV (optional url, id etc.)
